@@ -1,6 +1,8 @@
 # carwash_app
 
-A new Flutter project.
+
+A CAR-WASH APPLICATION(FRONT-END)
+Develop a user-friendly front-end for a car wash application that enables users to easily book and manage car wash services
 
 ## Getting Started
 
